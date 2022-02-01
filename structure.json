@@ -4,6 +4,11 @@
         "DecayDestructionPeriod": 1200,
         "DecayDestructionPeriodMultiplier": 4
     },
+    "Blueprint'/Game/ScorchedEarth/Structures/OilPump.OilPump'":
+    {
+        "DecayDestructionPeriod": 1200,
+        "DecayDestructionPeriodMultiplier": 4
+    },    
     "Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
     {
         "DecayDestructionPeriod": 1200,
