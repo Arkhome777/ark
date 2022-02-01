@@ -11,61 +11,49 @@
     },
     "Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },
      "Blueprint'/Game/PrimalEarth/Structures/Electric/Electric_Cable_Vertical.Electric_Cable_Vertical'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },   
       "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableBaseBP.ElectricCableBaseBP'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },     
        "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },        
         "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },           
           "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },             
             "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },             
              "Blueprint'/Game/PrimalEarth/Structures/Electric/LampPost.LampPost'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },        
               "Blueprint'/Game/PrimalEarth/Structures/Electric/LampPostOmni.LampPostOmni'":
     {
-        "DecayDestructionPeriod": 691 200,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     "Blueprint'/Game/PrimalEarth/Structures/IndustrialCookingPot.IndustrialCookingPot'":
     {
         "DecayDestructionPeriod": 345600,
