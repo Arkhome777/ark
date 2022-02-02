@@ -1,65 +1,65 @@
 {
-    "Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":
+"Blueprint'/Game/PrimalEarth/Structures/CookingPot.CookingPot'":
     {
         "DecayDestructionPeriod": 345600,
         "DecayDestructionPeriodMultiplier": 1
     },
-    "Blueprint'/Game/ScorchedEarth/Structures/OilPump/OilPump.OilPump'":
+"Blueprint'/Game/ScorchedEarth/Structures/OilPump/OilPump.OilPump'":
     {
         "DecayDestructionPeriod": 1382400,
         "DecayDestructionPeriodMultiplier": 1
     },
-    "Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },
-     "Blueprint'/Game/PrimalEarth/Structures/Electric/Electric_Cable_Vertical.Electric_Cable_Vertical'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/Electric_Cable_Vertical.Electric_Cable_Vertical'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },   
-      "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableBaseBP.ElectricCableBaseBP'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableBaseBP.ElectricCableBaseBP'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },     
-       "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },        
-        "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },           
-          "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },             
-            "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },             
-             "Blueprint'/Game/PrimalEarth/Structures/Electric/LampPost.LampPost'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/LampPost.LampPost'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },        
-              "Blueprint'/Game/PrimalEarth/Structures/Electric/LampPostOmni.LampPostOmni'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/LampPostOmni.LampPostOmni'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     }, 
-        "Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
+"Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
     {
         "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     },
-    "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
+"Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
         "DecayDestructionPeriod": 1382400,
         "DecayDestructionPeriodMultiplier": 1
