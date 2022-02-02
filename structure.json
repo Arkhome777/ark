@@ -84,7 +84,22 @@
     {
         "DecayDestructionPeriod": 1036800,
         "DecayDestructionPeriodMultiplier": 1
-    },     
+    },
+     "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+    {
+        "DecayDestructionPeriod": 1036800,
+        "DecayDestructionPeriodMultiplier": 1
+    },   
+      "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+    {
+        "DecayDestructionPeriod": 1036800,
+        "DecayDestructionPeriodMultiplier": 1
+    },  
+      "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+    {
+        "DecayDestructionPeriod": 1036800,
+        "DecayDestructionPeriodMultiplier": 1
+    },  
 "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
         "DecayDestructionPeriod": 1382400,
