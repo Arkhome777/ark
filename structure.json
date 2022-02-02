@@ -85,17 +85,17 @@
         "DecayDestructionPeriod": 1036800,
         "DecayDestructionPeriodMultiplier": 1
     },
-     "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+     "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/ThatchRoof_SM.ThatchRoof_SM'":
     {
         "DecayDestructionPeriod": 1036800,
         "DecayDestructionPeriodMultiplier": 1
     },   
-      "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+      "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/ThatchWall_Sloped_Left_SM.ThatchWall_Sloped_Left_SM'":
     {
         "DecayDestructionPeriod": 1036800,
         "DecayDestructionPeriodMultiplier": 1
     },  
-      "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/Thatch_Wall_Small.Thatch_Wall_Small'":
+      "Blueprint'/Game/PrimalEarth/Structures/Roofs/Thatch/ThatchWall_Sloped_Right_SM.ThatchWall_Sloped_Right_SM'":
     {
         "DecayDestructionPeriod": 1036800,
         "DecayDestructionPeriodMultiplier": 1
