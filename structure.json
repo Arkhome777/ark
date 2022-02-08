@@ -1,7 +1,7 @@
 {
 "Blueprint'/Game/ScorchedEarth/Structures/OilPump/OilPump.OilPump'":
     {
-        "DecayDestructionPeriod": 1382400,
+        "DecayDestructionPeriod": 2764800,
         "DecayDestructionPeriodMultiplier": 1
     },
 "Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
@@ -51,7 +51,7 @@
     },
 "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
-        "DecayDestructionPeriod": 1382400,
+        "DecayDestructionPeriod": 2764800,
         "DecayDestructionPeriodMultiplier": 1
     }
 }
