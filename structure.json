@@ -1,34 +1,40 @@
 {
 "Blueprint'/Game/ScorchedEarth/Structures/OilPump/OilPump.OilPump'":
-    {
-        "DecayDestructionPeriod": 2764800,
-        "DecayDestructionPeriodMultiplier": 1
-    },
+{
+"DecayDestructionPeriod": 2764800,
+"DecayDestructionPeriodMultiplier": 1
+},
+
 "Blueprint'/Game/PrimalEarth/StructuresPlus/Misc/DedicatedStorage/BP_DedicatedStorage.BP_DedicatedStorage'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 1
-	},
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1
+},
+
 "Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},
+
 "Blueprint'/Game/PrimalEarth/Structures/Electric/Electric_Cable_Vertical.Electric_Cable_Vertical'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },   
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},
+
 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableBaseBP.ElectricCableBaseBP'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },     
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},
+	
 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableDiagonal.ElectricCableDiagonal'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },        
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},
+	
 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":
     {
         "DecayDestructionPeriod": 691200,
