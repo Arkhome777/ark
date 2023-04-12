@@ -36,67 +36,71 @@
 },
 	
 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableIntersection.ElectricCableIntersection'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },           
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},           
 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricCableStraight.ElectricCableStraight'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },             
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},             
 "Blueprint'/Game/PrimalEarth/Structures/Electric/ElectricJunction.ElectricJunction'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },             
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},             
 "Blueprint'/Game/PrimalEarth/Structures/Electric/LampPost.LampPost'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },        
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},        
 "Blueprint'/Game/PrimalEarth/Structures/Electric/LampPostOmni.LampPostOmni'":
-    {
-        "DecayDestructionPeriod": 691200,
-        "DecayDestructionPeriodMultiplier": 1
-    },
+{
+"DecayDestructionPeriod": 691200,
+"DecayDestructionPeriodMultiplier": 1
+},
 
-	"Blueprint'/Game/Extinction/Structures/Cryofridge/cryofridge.cryofridge'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 1
-	},
+"Blueprint'/Game/Extinction/Structures/Cryofridge/cryofridge.cryofridge'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1
+},
 
-	"Blueprint'/Game/PrimalEarth/Structures/TekTier/tekcloningChamber.tekcloningChamber'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 0.5
-	},
-	"Blueprint'/Game/PrimalEarth/Structures/storagebox_tekshield.storagebox_tekshield'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 1
-	},
-	"Blueprint'/Game/PrimalEarth/Structures/storagebox_tektransmitter.storagebox_tektransmitter'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 1
-	},
+"Blueprint'/Game/PrimalEarth/Structures/TekTier/tekcloningChamber.tekcloningChamber'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 0.5
+},
+
+"Blueprint'/Game/PrimalEarth/Structures/storagebox_tekshield.storagebox_tekshield'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1
+},
+
+"Blueprint'/Game/PrimalEarth/Structures/storagebox_tektransmitter.storagebox_tektransmitter'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1
+},
 
 
-	"Blueprint'/Game/PrimalEarth/Structures/tektrough.tektrough'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 1
-	},
-	"Blueprint'/Game/PrimalEarth/Structures/storagebox_tekgenerator.storagebox_tekgenerator'":
-	{
-		"DecayDestructionPeriod": 345600,
-		"DecayDestructionPeriodMultiplier": 1
-	},
+"Blueprint'/Game/PrimalEarth/Structures/tektrough.tektrough'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1
+},
+
+"Blueprint'/Game/PrimalEarth/Structures/storagebox_tekgenerator.storagebox_tekgenerator'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1
+},
+	
 "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
         "DecayDestructionPeriod": 2764800,
         "DecayDestructionPeriodMultiplier": 1
-    },
+    }
 }
