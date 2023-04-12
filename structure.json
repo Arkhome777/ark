@@ -67,7 +67,7 @@
 "Blueprint'/Game/PrimalEarth/Structures/TekTier/tekcloningChamber.tekcloningChamber'":
 {
 "DecayDestructionPeriod": 345600,
-"DecayDestructionPeriodMultiplier": 0.5
+"DecayDestructionPeriodMultiplier": 1.0
 },
 "Blueprint'/Game/PrimalEarth/Structures/storagebox_tekshield.storagebox_tekshield'":
 {
