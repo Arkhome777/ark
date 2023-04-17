@@ -69,6 +69,11 @@
 "DecayDestructionPeriod": 345600,
 "DecayDestructionPeriodMultiplier": 1.0
 },
+"Blueprint'/Game/PrimalEarth/Structures/TekTier/TekTeleporter.TekTeleporter'":
+{
+"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriodMultiplier": 1.0
+},
 "Blueprint'/Game/PrimalEarth/Structures/storagebox_tekshield.storagebox_tekshield'":
 {
 "DecayDestructionPeriod": 345600,
