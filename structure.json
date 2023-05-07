@@ -96,7 +96,7 @@
 },
 "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
-        "DecayDestructionPeriod": 2764800,
+        "DecayDestructionPeriod": 691200,
         "DecayDestructionPeriodMultiplier": 1
     }
 }
