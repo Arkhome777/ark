@@ -99,6 +99,11 @@
 "DecayDestructionPeriod": 216000,
 "DecayDestructionPeriodMultiplier": 1
 },
+"Blueprint'/Game/Mods/arkhome/Structures/StorageBox_Huge_ah.StorageBox_Huge_ah'":
+{
+"DecayDestructionPeriod": 216000,
+"DecayDestructionPeriodMultiplier": 1
+},
 "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
         "DecayDestructionPeriod": 691200,
