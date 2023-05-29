@@ -11,7 +11,7 @@
 },
 "Blueprint'/Game/PrimalEarth/StructuresPlus/Misc/DedicatedStorage/BP_DedicatedStorage.BP_DedicatedStorage'":
 {
-"DecayDestructionPeriod": 345600,
+"DecayDestructionPeriod": 190080,
 "DecayDestructionPeriodMultiplier": 1
 },
 "Blueprint'/Game/PrimalEarth/Structures/Electric/AirConditioner.AirConditioner'":
