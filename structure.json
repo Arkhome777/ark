@@ -94,6 +94,11 @@
 "DecayDestructionPeriod": 345600,
 "DecayDestructionPeriodMultiplier": 1
 },
+"Blueprint'/Game/PrimalEarth/Structures/StorageBox_Huge.StorageBox_Huge'":
+{
+"DecayDestructionPeriod": 216000,
+"DecayDestructionPeriodMultiplier": 2
+},
 "Blueprint'/Game/Aberration/Structures/GasCollector/GasCollector.GasCollector'":
     {
         "DecayDestructionPeriod": 691200,
